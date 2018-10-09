@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Pin : MonoBehaviour {
+	[SerializeField]
+	enum Direction {LEFT, RIGHT};
+
 	HingeJoint hingeJoint;
+	[SerializeField]
+	Direction direction;
 
 	// Use this for initialization
 	void Start () {
@@ -16,12 +21,22 @@ public class Pin : MonoBehaviour {
 	void Update () {
 		JointSpring spring = hingeJoint.spring;
 
-		if (Input.GetKey (KeyCode.L)) {
-			spring.targetPosition = 100F;
-			hingeJoint.spring = spring;
-		} else {
-			spring.targetPosition = 0F;
-			hingeJoint.spring = spring;
+		if (direction == Direction.LEFT) {
+			if (Input.GetKey (KeyCode.A)) {
+				spring.targetPosition = -100F;
+				hingeJoint.spring = spring;
+			} else {
+				spring.targetPosition = 0F;
+				hingeJoint.spring = spring;
+			}
+		} else if (direction == Direction.RIGHT) {
+			if (Input.GetKey (KeyCode.L)) {
+				spring.targetPosition = 100F;
+				hingeJoint.spring = spring;
+			} else {
+				spring.targetPosition = 0F;
+				hingeJoint.spring = spring;
+			}
 		}
 	}
 }
