@@ -19,6 +19,6 @@ public class Block : MonoBehaviour {
 			return;
 		}
 
-		Destroy (this.gameObject, 0.01F);
+		Destroy (this.gameObject);
 	}
 }
