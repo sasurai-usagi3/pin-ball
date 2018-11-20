@@ -146,7 +146,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &7687964
 MonoBehaviour:
@@ -283,7 +283,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 16283122}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -368,7 +368,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 45355542}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -536,7 +536,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 117511351}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -596,7 +596,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &118592876
 MonoBehaviour:
@@ -733,7 +733,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 162949653}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -793,7 +793,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &234330456
 MonoBehaviour:
@@ -905,7 +905,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &247877788
 MonoBehaviour:
@@ -1082,7 +1082,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &285719628
 MonoBehaviour:
@@ -1194,7 +1194,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &347717719
 MonoBehaviour:
@@ -1331,7 +1331,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 390733228}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -1415,7 +1415,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 432395477}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -1475,7 +1475,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &455538542
 MonoBehaviour:
@@ -1612,7 +1612,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 504940254}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -1697,7 +1697,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 650081762}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -1782,7 +1782,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 701616319}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -1842,7 +1842,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &775977517
 MonoBehaviour:
@@ -1979,7 +1979,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 879095814}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -2038,7 +2038,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &946130598
 MonoBehaviour:
@@ -2150,7 +2150,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &958769574
 MonoBehaviour:
@@ -2262,7 +2262,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &964886446
 MonoBehaviour:
@@ -2399,7 +2399,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 974206113}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -2460,7 +2460,7 @@ HingeJoint:
   m_ConnectedAnchor: {x: -1.3868524, y: -1.8012068, z: -1.8476024}
   m_UseSpring: 1
   m_Spring:
-    spring: 400
+    spring: 700
     damper: 5
     targetPosition: 0
   m_UseMotor: 0
@@ -2500,7 +2500,7 @@ Rigidbody:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 992690735}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 2
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 0
@@ -2713,7 +2713,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1056374013}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -2773,7 +2773,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &1173413793
 MonoBehaviour:
@@ -2910,7 +2910,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1176854577}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -2995,7 +2995,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1430344303}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -3080,7 +3080,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1435345794}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -3165,7 +3165,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1445459195}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -3224,7 +3224,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &1467925889
 MonoBehaviour:
@@ -3331,7 +3331,7 @@ Rigidbody:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1494037570}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 2
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 0
@@ -3430,7 +3430,7 @@ HingeJoint:
   m_ConnectedAnchor: {x: 0.9198725, y: -1.7850132, z: -1.8287761}
   m_UseSpring: 1
   m_Spring:
-    spring: 400
+    spring: 700
     damper: 5
     targetPosition: 0
   m_UseMotor: 0
@@ -3509,7 +3509,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1532110707}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -3569,7 +3569,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &1597045908
 MonoBehaviour:
@@ -3681,7 +3681,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!114 &1748435833
 MonoBehaviour:
@@ -3870,7 +3870,7 @@ Rigidbody:
   m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 126
   m_CollisionDetection: 0
 --- !u!1 &1897565536
 GameObject:
@@ -3930,7 +3930,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1897565536}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
@@ -4015,7 +4015,7 @@ BoxCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1913107079}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
@@ -4199,7 +4199,7 @@ CapsuleCollider:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2066722432}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 3b1c34a48e4484b07bdd42a6d9935c26, type: 2}
   m_IsTrigger: 0
   m_Enabled: 1
   m_Radius: 0.5
