@@ -24,6 +24,10 @@ public class Block : MonoBehaviour {
 			return;
 		}
 
+		Point.instantce.value += 10;
+
+		print (Point.instantce.value); // NOTE: for debug.
+
 		Destroy (this.gameObject);
 	}
 }
