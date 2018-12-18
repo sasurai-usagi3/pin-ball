@@ -14,6 +14,7 @@ public class Ball : MonoBehaviour {
 	void Update () {
 		if (transform.position.y <= -3) {
 			SceneManager.LoadScene("main");
+			Point.instantce.value = 0;
 		}
 	}
 }
